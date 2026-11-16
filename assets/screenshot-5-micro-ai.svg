@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 800" width="100%" height="100%">
+  <rect width="1280" height="800" fill="#f1f5f9"/>
+  <rect width="1280" height="56" fill="#0f172a"/>
+  <rect x="24" y="13" width="32" height="30" rx="6" fill="#14b8a6"/>
+  <text x="40" y="33" font-family="system-ui, sans-serif" font-size="14" font-weight="800" fill="#0f172a" text-anchor="middle">CS</text>
+  <text x="68" y="34" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#ffffff">5. Micro-AI Batch Normalizer (SHA-256 Cached)</text>
+  <text x="1256" y="34" font-family="system-ui, sans-serif" font-size="13" fill="#5eead4" text-anchor="end">Scope: spreadsheets.currentonly (Zero Drive Access)</text>
+
+  <!-- Sheet Grid -->
+  <rect x="24" y="76" width="916" height="696" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <rect x="24" y="76" width="916" height="40" rx="10" fill="#f8fafc"/>
+  <text x="44" y="101" font-family="monospace" font-size="13" font-weight="700" fill="#334155">A: Full Name        B: Email                     C: Company                 D: Phone            E: Deal Value</text>
+  <rect x="36" y="128" width="892" height="40" rx="4" fill="#f8fafc"/>
+  <text x="44" y="153" font-family="monospace" font-size="12" fill="#0f172a">1  Dr. Steve J. Dai, PhD   steve.dai@stripe.com         Stripe, Inc.               +14155552671        $1,200.00</text>
+  <rect x="36" y="176" width="892" height="40" rx="4" fill="#fef08a"/>
+  <text x="44" y="201" font-family="monospace" font-size="12" fill="#0f172a">2  Dai, Steve              STEVE.DAI@stripe.com         Stripe LLC                 +14155559988        $850.50</text>
+  <rect x="36" y="224" width="892" height="40" rx="4" fill="#fef08a"/>
+  <text x="44" y="249" font-family="monospace" font-size="12" fill="#0f172a">3  Steven Dai              steve.dai@stripe.com         The Stripe Corporation     +14155552671        $450.00</text>
+  <rect x="36" y="272" width="892" height="40" rx="4" fill="#f8fafc"/>
+  <text x="44" y="297" font-family="monospace" font-size="12" fill="#0f172a">4  Maria de la Cruz, CPA   maria@acme.io                Acme Holdings LLC          +12125550144        $3,400.00</text>
+  <rect x="36" y="320" width="892" height="40" rx="4" fill="#fef08a"/>
+  <text x="44" y="345" font-family="monospace" font-size="12" fill="#0f172a">5  maria de la cruz        maria@acme.io                ACME Inc.                  +12125550199        $1,600.00</text>
+
+  <!-- 300px Sidebar -->
+  <rect x="956" y="76" width="300" height="696" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <rect x="956" y="76" width="300" height="78" rx="10" fill="#0f172a"/>
+  <text x="974" y="105" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#ffffff">CleanSheet</text>
+  <text x="1238" y="105" font-family="system-ui, sans-serif" font-size="11" font-weight="700" fill="#fbbf24" text-anchor="end">PRO ⚡</text>
+  <text x="974" y="134" font-family="system-ui, sans-serif" font-size="11" fill="#94a3b8">100-Row JSON Batching · 0 Credits on Cache Hits</text>
+
+  <rect x="972" y="172" width="268" height="36" rx="6" fill="#f0fdfa" stroke="#99f6e4"/>
+  <text x="986" y="195" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#0f766e">Layer 3 &amp; 4 · gpt-6-luna + SHA-256 Cache</text>
+
+  <rect x="972" y="224" width="268" height="110" rx="8" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="986" y="252" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#0f172a">Dry-Run Preview Before Writing:</text>
+  <text x="986" y="278" font-family="system-ui, sans-serif" font-size="12" fill="#0f766e">10 SHA-256 Cache Hits ($0) · B2B Persona</text>
+  <text x="986" y="304" font-family="system-ui, sans-serif" font-size="11" fill="#64748b">✓ Hidden Backup Tab Created Automatically</text>
+
+  <rect x="972" y="352" width="268" height="44" rx="8" fill="#0f766e"/>
+  <text x="1106" y="379" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">Run Micro-AI on Full Name</text>
+
+  <rect x="956" y="704" width="300" height="68" rx="10" fill="#f8fafc" stroke="#e2e8f0"/>
+  <text x="974" y="732" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#334155">↩ 1-Click Undo Snapshot Ready</text>
+  <text x="974" y="754" font-family="system-ui, sans-serif" font-size="11" fill="#0f766e">✓ 0 External Servers for Deterministic Ops</text>
+</svg>
